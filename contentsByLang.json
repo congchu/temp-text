@@ -1,0 +1,17 @@
+{
+  ko: {
+    title: "서비스 <span class='text-orange'>점검 중</span>입니다.",
+    text: "보다 안정적인 서비스 이용을 위해 \n현재 에어프레미아 공식 홈페이지 점검을 진행하고 있습니다. \n서비스 이용에 불편을 드려 죄송합니다.",
+    period: "2023.08.06(월) 10:00 ~ 2023.08.06(월) 10:30",
+  },
+  en: {
+    title: "Notice of website maintenance",
+    text: "We are currently performing maintenance \non the Air Premia official website to provide a more stable service. \nWe apologize for any inconvenience this may cause when using our services.",
+    period: "Inspection time : Aug 6, 2023, 10:00 ~ 10:30 (KST)",
+  },
+  ja: {
+    title: "Notice of website maintenance",
+    text: "We are currently performing maintenance \non the Air Premia official website to provide a more stable service. \nWe apologize for any inconvenience this may cause when using our services.",
+    period: "2023.08.06(월) 10:10 ~ 2023.08.06(월) 10:30",
+  },
+}
